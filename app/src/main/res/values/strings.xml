@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FaceDetection</string>
+    <string name="progress">process</string>
+    <string name="show_image">show image</string>
+</resources>
